@@ -1,4 +1,4 @@
-﻿#!/bin/bash1
+﻿#!/bin/bash2
 
 apiappname=ShoeCoAPI$(openssl rand -hex 5)
 
