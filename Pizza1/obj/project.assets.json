@@ -453,11 +453,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\patrick.enriquez\\OneDrive - Accenture\\Desktop\\Upskilling\\Github\\TestApi\\Pizza1\\Pizza1.csproj",
+      "projectUniqueName": "C:\\Users\\patrick.enriquez\\OneDrive - Accenture\\Desktop\\Upskilling\\Github\\TestApi\\TestApi-1\\Pizza1\\Pizza1.csproj",
       "projectName": "Pizza1",
-      "projectPath": "C:\\Users\\patrick.enriquez\\OneDrive - Accenture\\Desktop\\Upskilling\\Github\\TestApi\\Pizza1\\Pizza1.csproj",
+      "projectPath": "C:\\Users\\patrick.enriquez\\OneDrive - Accenture\\Desktop\\Upskilling\\Github\\TestApi\\TestApi-1\\Pizza1\\Pizza1.csproj",
       "packagesPath": "C:\\Users\\patrick.enriquez\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\patrick.enriquez\\OneDrive - Accenture\\Desktop\\Upskilling\\Github\\TestApi\\Pizza1\\obj\\",
+      "outputPath": "C:\\Users\\patrick.enriquez\\OneDrive - Accenture\\Desktop\\Upskilling\\Github\\TestApi\\TestApi-1\\Pizza1\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
